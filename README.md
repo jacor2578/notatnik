@@ -1,4 +1,4 @@
-
+## *Student Notes*
 ## opis: aplikacja jest przeznaczona dla studentow z calego swiata która bedzie słuzyła do zapisywania waznych terminow (np. kolokwium, sesja, termin oddania pracy zaliczeniowej), notatek z wykladow oraz cwiczen z podzialem na dany przedmiot. Apliakcja bedzie mogła wysylac powiadomienia o zblizajacym sie terminie oddania pracy domowej lub nadchodzacyh zajeciach, zalozenie jest zeby komunikat pojawiaj sie w pasku powiadomiec na windowsie, telefonie z systemem ANDROID i iOSna zablokowanym ekranie. 
 
 ## Glowne funkcje aplikacji:
@@ -29,4 +29,5 @@ Celem projektu jest stworzenie prostej aplikacji dla studnetow ktora ulatwia zar
 
 ## Projket zaliczeniowy:)
  
+
 
